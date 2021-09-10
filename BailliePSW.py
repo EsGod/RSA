@@ -1,7 +1,7 @@
 import math 
 import random
 
-#
+#https://codegolf.stackexchange.com/questions/10701/fastest-code-to-find-the-next-prime/10702#10702
 
 
 # legendre symbol (a|m)

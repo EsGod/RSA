@@ -17,7 +17,7 @@ def egcd(e, phi):
     if e == 0:
         return (phi, 0, 1)
     else:
-        g, y, x = egcd2(phi % e, e)
+        g, y, x = egcd(phi % e, e)
         return (g, x - (phi // e) * y, y)
     
 # Retorna o módulo inverso de a mod M
