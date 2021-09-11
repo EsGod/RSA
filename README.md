@@ -7,7 +7,7 @@
 #References
 
 
-RSA - Chinease Remainder (ref:https://pt.wikipedia.org/wiki/RSA_(sistema_criptogr%C3%A1fico))
+RSA - Chinease Remainder (ref:https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Using_the_Chinese_remainder_algorithm)
 
 Baillie-PSW (ref:https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test  / https://codegolf.stackexchange.com/questions/10701/fastest-code-to-find-the-next-prime/10702#10702)
 
